@@ -4,5 +4,11 @@
   "obsidian-icon-folder",
   "home-tab",
   "leader-hotkeys-obsidian",
-  "obsidian-vimrc-support"
+  "obsidian-vimrc-support",
+  "dataview",
+  "obsidian-excalidraw-plugin",
+  "table-editor-obsidian",
+  "obsidian-tasks-plugin",
+  "calendar",
+  "copilot"
 ]

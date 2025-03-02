@@ -25,10 +25,14 @@
             "id": "040c67c9163c3127",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": ",..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": ",."
             }
           }
         ],
@@ -165,8 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "040c67c9163c3127",
+  "active": "fdcad9ca8f83c9e1",
   "lastOpenFiles": [
+    ",..md",
+    "untitled folder",
     "README.md",
     "AWS.md",
     "AWS_Certified_DevOps_Professional"

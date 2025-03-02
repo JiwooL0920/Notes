@@ -1,3 +1,2 @@
 
-
-testing sync with git 2
+Testing autocommit sync with ipad

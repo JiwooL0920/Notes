@@ -24,8 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": ",..md",
-      "timestamp": 1740879923276
+      "filepath": "obsidian.vimrc.md",
+      "timestamp": 1740880111481
+    },
+    {
+      "filepath": "README.md",
+      "timestamp": 1740880110086
     }
   ],
   "bookmarkedFileStore": [],

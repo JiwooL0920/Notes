@@ -86,7 +86,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "3e589f21c953b1e2",
@@ -155,7 +156,7 @@
   },
   "active": "2d374a2dd2fd4a86",
   "lastOpenFiles": [
-    "Untitled.md",
+    "AWS.md",
     "README.md"
   ]
 }

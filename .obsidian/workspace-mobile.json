@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,11 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fdcad9ca8f83c9e1",
+  "active": "040c67c9163c3127",
   "lastOpenFiles": [
+    "AWS/Untitled.md",
     "AWS/DOP_C02",
     "2025-03-01.md",
-    "AWS/Untitled.md",
     "AWS",
     "asdiofu.md",
     "README.md",

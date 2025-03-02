@@ -39,17 +39,10 @@
             "id": "992586f02ecd28be",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           },
           {
@@ -226,12 +219,12 @@
   },
   "active": "9b62f6410da5319e",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Excalidraw/Drawing 2025-03-01 21.34.20.excalidraw.md",
-    "Excalidraw",
-    "2025-03-01.md",
     "README.md",
+    "Excalidraw/Drawing 2025-03-01 21.34.20.excalidraw.md",
     "AWS/Untitled.md",
+    "2025-03-01.md",
+    "Untitled.canvas",
+    "Excalidraw",
     "AWS/DOP_C02",
     "AWS",
     "asdiofu.md",

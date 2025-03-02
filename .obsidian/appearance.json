@@ -3,6 +3,6 @@
   "cssTheme": "Border",
   "textFontFamily": "JetBrains Mono",
   "monospaceFontFamily": "JetBrains Mono",
-  "interfaceFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "",
   "baseFontSize": 14
 }

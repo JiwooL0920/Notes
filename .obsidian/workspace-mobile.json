@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": ",..md",
+                "file": "obsidian.vimrc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": ",."
+              "title": "obsidian.vimrc"
             }
           }
         ],
@@ -169,10 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "040c67c9163c3127",
+  "active": "fdcad9ca8f83c9e1",
   "lastOpenFiles": [
     "README.md",
-    ",..md",
+    "obsidian.vimrc.md",
     "untitled folder",
     "AWS.md",
     "AWS_Certified_DevOps_Professional"

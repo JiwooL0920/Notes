@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asdiofu.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "asdiofu"
+              "title": "README"
             }
           }
         ],
@@ -183,12 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe07059ad9a477bf",
+  "active": "fdcad9ca8f83c9e1",
   "lastOpenFiles": [
-    "README.md",
+    "AWS_",
     "asdiofu.md",
-    "2025-03-01.md",
+    "README.md",
     "Untitled.canvas",
+    "2025-03-01.md",
     "Untitled 1.canvas",
     "obsidian.vimrc.md",
     "untitled folder",

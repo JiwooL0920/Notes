@@ -2,5 +2,7 @@
   "theme": "obsidian",
   "cssTheme": "Border",
   "textFontFamily": "JetBrains Mono",
-  "monospaceFontFamily": "JetBrains Mono"
+  "monospaceFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "JetBrains Mono",
+  "baseFontSize": 14
 }

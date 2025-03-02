@@ -8,7 +8,7 @@
 - Set up Obsidian auto sync with Github repo using Working Directory and Shortcuts
 
 # [Sun] 03/02
-- Finish reviewing AWS practice exam 3
-	- [ ] Domain 5
-	- [ ] Domain 6
- - [ ] Study common patterns on Tutorial dojo
+Finish reviewing AWS practice exam 3
+- [ ] Domain 5
+- [ ] Domain 6
+- [ ] Study common patterns on Tutorial dojo

@@ -98,7 +98,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +116,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -131,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md",
+            "file": "Untitled.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -153,8 +151,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d374a2dd2fd4a86",
+  "active": "fdcad9ca8f83c9e1",
   "lastOpenFiles": [
+    "README.md",
     "Untitled.md"
   ]
 }

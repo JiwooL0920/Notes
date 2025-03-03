@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "c687347667824418",
+            "id": "cb6ce28d8e026600",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -202,7 +202,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c687347667824418",
+  "active": "cb6ce28d8e026600",
   "lastOpenFiles": [
     "AWS/Services/CloudFormation.md",
     "Daily/2025/March.md",

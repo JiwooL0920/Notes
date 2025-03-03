@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Common Exam Scenarios.md",
+                "file": "AWS/Services/OpsWork.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Common Exam Scenarios"
+              "title": "OpsWork"
             }
           },
           {
@@ -27,16 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/1. SDLC Automation/TD Section Based Test.md",
+                "file": "AWS/Section Based Test/1. SDLC Automation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TD Section Based Test"
+              "title": "1. SDLC Automation"
+            }
+          },
+          {
+            "id": "e531f909cc5e270b",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,7 +151,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -207,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 400.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,10 +235,18 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "a578b0a4ad88a253",
+  "active": "e531f909cc5e270b",
   "lastOpenFiles": [
+    "AWS/Section Based Test/1. SDLC Automation.md",
+    "AWS/Services/OpsWork.md",
     "AWS/Common Exam Scenarios.md",
-    "AWS/1. SDLC Automation/TD Section Based Test.md",
+    "AWS/Services/CloudFormation.md",
+    "img",
+    "AWS/Section Based Test/2. Configuration Management and IaC.md",
+    "AWS/Services",
+    "AWS/Section Based Test",
+    "AWS/2. Configuration Management and IaC/TD Section Based Test.md",
+    "AWS/2. Configuration Management and IaC",
     "Daily/2025/March.md",
     "AWS/1. SDLC Automation",
     "Common Exam Scenarios.pdf",

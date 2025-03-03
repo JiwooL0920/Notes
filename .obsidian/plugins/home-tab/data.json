@@ -24,13 +24,17 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "AWS/Common Exam Scenarios.md",
+      "timestamp": 1740957747652
+    },
+    {
+      "filepath": "README.md",
+      "timestamp": 1740957745111
+    },
+    {
       "filepath": "Daily/2025/March.md",
       "timestamp": 1740967292158
     },
-    {
-      "filepath": "AWS/Common Exam Scenarios.md",
-      "timestamp": 1740966567248
-    }
   ],
   "bookmarkedFileStore": [],
   "searchDelay": 0,

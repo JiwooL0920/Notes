@@ -24,24 +24,20 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "AWS/Section Based Test/2. Configuration Management and IaC.md",
-      "timestamp": 1741039097068
-    },
-    {
-      "filepath": "Daily/2025/March.md",
-      "timestamp": 1741039094882
+      "filepath": "AWS/Services/CloudFormation.md",
+      "timestamp": 1741031884762
     },
     {
       "filepath": "AWS/Common Exam Scenarios.md",
-      "timestamp": 1741039046022
+      "timestamp": 1740957747652
     },
     {
-      "filepath": "AWS/Section Based Test/1. SDLC Automation.md",
-      "timestamp": 1741036959793
+      "filepath": "README.md",
+      "timestamp": 1740957745111
     },
     {
-      "filepath": "AWS/Services/OpsWork.md",
-      "timestamp": 1741023000096
+      "filepath": "Excalidraw/Drawing 2025-03-01 21.34.20.excalidraw.md",
+      "timestamp": 1740885012547
     }
   ],
   "bookmarkedFileStore": [],

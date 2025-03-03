@@ -45,8 +45,7 @@
               "title": "March"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily/2025/March.md",
+            "file": "AWS/1. SDLC Automation/TD Section Based Test.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -202,10 +201,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c687347667824418",
+  "active": "040c67c9163c3127",
   "lastOpenFiles": [
-    "AWS/1. SDLC Automation/TD Section Based Test.md",
     "Daily/2025/March.md",
+    "AWS/1. SDLC Automation/TD Section Based Test.md",
     "AWS/1. SDLC Automation",
     "AWS/Common Exam Scenarios.md",
     "README.md",

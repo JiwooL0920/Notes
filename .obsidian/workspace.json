@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025/March.md",
+                "file": "AWS/1. SDLC Automation/TD Section Based Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "March"
+              "title": "TD Section Based Test"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 234.50469589233398
   },
   "right": {
     "id": "14bdd2b5525accb6",
@@ -153,9 +152,24 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "AWS/1. SDLC Automation/TD Section Based Test.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of TD Section Based Test"
+            }
+          },
+          {
+            "id": "a585c0a9506a837f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -189,12 +203,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 927.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,7 +225,9 @@
   "active": "a578b0a4ad88a253",
   "lastOpenFiles": [
     "AWS/Common Exam Scenarios.md",
+    "AWS/1. SDLC Automation/TD Section Based Test.md",
     "Daily/2025/March.md",
+    "AWS/1. SDLC Automation",
     "Common Exam Scenarios.pdf",
     "AWS/Untitled.md",
     "Makefile",

@@ -23,6 +23,25 @@
 	- USB C to DP - Mar 27 - $14.68
 - 로지텍 아직도 환불 못받음. 기억해둘것
 
+계획
+
+| Day       | Date  | Activity                                   |
+| --------- | ----- | ------------------------------------------ |
+| Sun       | 03/02 | Stephan Practice Test 3, Review Domain 5-6 |
+|           |       | Tutorial Dojo, Domain 1 Practice Test      |
+| Monday    | 03/03 | Tutorial Dojo, Domain 2-3 Practice Test    |
+| Tuesday   | 03/04 | Tutorial Dojo, Domain 4-5 Practice Test    |
+| Wednesday | 03/05 | Tutorial Dojo, Domain 6 Practice Test      |
+|           |       |                                            |
+| Thursday  | 03/06 |                                            |
+| Friday    | 03/07 |                                            |
+| Saturday  | 03/08 |                                            |
+| Sunday    | 03/09 |                                            |
+| Monday    | 03/10 | TD Final Test, Review                      |
+| Tuesday   | 03/11 | TEST DATE                                  |
+
+
+
 
 ---
 # [Mon] 03/03

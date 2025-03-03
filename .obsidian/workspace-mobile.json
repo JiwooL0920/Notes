@@ -44,19 +44,9 @@
               "icon": "lucide-file",
               "title": "March"
             }
-          },
-          {
-            "id": "1a5e27ad899f6286",
-            "type": "leaf",
-            "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,6 +123,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Daily/2025/March.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -211,7 +202,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "1a5e27ad899f6286",
+  "active": "cb6ce28d8e026600",
   "lastOpenFiles": [
     "Daily/2025/March.md",
     "AWS/Services/CloudFormation.md",

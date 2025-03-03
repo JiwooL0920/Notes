@@ -46,3 +46,10 @@
 ---
 # [Mon] 03/03
 
+- Finish up practice test or `1. SDLC Automation`
+- Study common questions, and write practice test for `2. Configuration Management and IaC`
+- Write notes for `CloudFormation` service
+
+
+퇴근할때까지 2하고 저녁먹고 42층가서 3시작하자. 끝나고 오면 좋고
+

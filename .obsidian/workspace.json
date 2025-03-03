@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025/March.md",
+                "file": "AWS/Common Exam Scenarios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "March"
+              "title": "Common Exam Scenarios"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "March"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "14bdd2b5525accb6",
@@ -172,8 +174,18 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "32e39fffb72ec525",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
@@ -181,11 +193,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 927.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -197,10 +209,13 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "b0e5e57f2a56d0b5",
+  "active": "a578b0a4ad88a253",
   "lastOpenFiles": [
-    "Makefile",
+    "AWS/Common Exam Scenarios.md",
     "Daily/2025/March.md",
+    "Common Exam Scenarios.pdf",
+    "AWS/Untitled.md",
+    "Makefile",
     "README.md"
   ]
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Services/OpsWork.md",
+                "file": "AWS/Section Based Test/1. SDLC Automation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OpsWork"
+              "title": "1. SDLC Automation"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Services/Config.md",
+                "file": "AWS/Section Based Test/3. Resilient Cloud Solutions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Config"
+              "title": "3. Resilient Cloud Solutions"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Common Exam Scenarios.md",
+                "file": "AWS/Section Based Test/3. Resilient Cloud Solutions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Common Exam Scenarios"
+              "title": "3. Resilient Cloud Solutions"
             }
           }
         ],
@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.50469589233398
+    "width": 234.50469589233398,
+    "collapsed": true
   },
   "right": {
     "id": "14bdd2b5525accb6",
@@ -245,12 +246,15 @@
   },
   "active": "a578b0a4ad88a253",
   "lastOpenFiles": [
-    "AWS/Section Based Test/2. Configuration Management and IaC.md",
-    "AWS/Services/Config.md",
-    "Daily/2025/March.md",
-    "AWS/Common Exam Scenarios.md",
     "AWS/Section Based Test/1. SDLC Automation.md",
     "AWS/Services/OpsWork.md",
+    "AWS/Section Based Test/3. Resilient Cloud Solutions.md",
+    "AWS/Services/Config.md",
+    "AWS/Common Exam Scenarios.md",
+    "2025-03-03.md",
+    "Excalidraw/Drawing 2025-03-03 21.35.53.excalidraw.md",
+    "AWS/Section Based Test/2. Configuration Management and IaC.md",
+    "Daily/2025/March.md",
     "AWS/Services/CloudFormation.md",
     "img",
     "AWS/Services",

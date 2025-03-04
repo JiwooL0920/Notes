@@ -1,10 +1,15 @@
 [
   "obsidian-minimal-settings",
   "obsidian-style-settings",
+  "obsidian-icon-folder",
+  "home-tab",
+  "leader-hotkeys-obsidian",
   "obsidian-vimrc-support",
   "dataview",
   "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
   "obsidian-tasks-plugin",
-  "calendar"
+  "calendar",
+  "copilot",
+  "highlightr-plugin"
 ]

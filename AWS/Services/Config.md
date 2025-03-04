@@ -1,0 +1,1 @@
+- fully managed service that provides you with an AWS resource inventory, config history, and config change notifications to enable security and governance
